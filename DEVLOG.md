@@ -11,3 +11,4 @@
 - **[2026-01-03 17:10:25]** (9) refactor(driver): optimize driver location broadcast stream
 - **[2026-01-03 20:27:48]** (10) fix(fare): handle surge pricing rounding precision
 - **[2026-01-04 10:43:52]** (11) ui(booking): redesign pickup address search bottom sheet
+- **[2026-01-04 13:00:15]** (12) test(ride): add unit tests for ride cancellation policies
