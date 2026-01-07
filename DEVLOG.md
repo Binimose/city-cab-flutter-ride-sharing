@@ -22,3 +22,4 @@
 - **[2026-01-06 19:48:27]** (20) perf(tracking): throttle GPS updates to save rider battery
 - **[2026-01-07 11:04:31]** (21) docs(setup): document API credentials for map services
 - **[2026-01-07 14:21:54]** (22) feat(maps): initialize Google Maps SDK and polyline layer
+- **[2026-01-07 17:38:17]** (23) refactor(driver): optimize driver location broadcast stream
