@@ -28,3 +28,4 @@
 - **[2026-01-08 16:45:30]** (26) test(ride): add unit tests for ride cancellation policies
 - **[2026-01-09 11:18:57]** (27) perf(tracking): throttle GPS updates to save rider battery
 - **[2026-01-09 14:35:20]** (28) docs(setup): document API credentials for map services
+- **[2026-01-09 17:52:43]** (29) feat(maps): initialize Google Maps SDK and polyline layer
