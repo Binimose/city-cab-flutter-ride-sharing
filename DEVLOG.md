@@ -83,3 +83,4 @@
 - **[2026-01-25 11:10:25]** (81) ui(booking): redesign pickup address search bottom sheet
 - **[2026-01-25 14:27:48]** (82) test(ride): add unit tests for ride cancellation policies
 - **[2026-01-25 17:44:11]** (83) perf(tracking): throttle GPS updates to save rider battery
+- **[2026-01-26 10:17:38]** (84) docs(setup): document API credentials for map services
