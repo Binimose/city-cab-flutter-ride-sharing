@@ -89,3 +89,4 @@
 - **[2026-01-27 11:24:51]** (87) fix(fare): handle surge pricing rounding precision
 - **[2026-01-27 14:41:14]** (88) ui(booking): redesign pickup address search bottom sheet
 - **[2026-01-27 17:58:37]** (89) test(ride): add unit tests for ride cancellation policies
+- **[2026-01-27 20:15:00]** (90) perf(tracking): throttle GPS updates to save rider battery
