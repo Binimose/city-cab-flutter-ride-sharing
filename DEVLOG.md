@@ -86,3 +86,4 @@
 - **[2026-01-26 10:17:38]** (84) docs(setup): document API credentials for map services
 - **[2026-01-26 13:34:01]** (85) feat(maps): initialize Google Maps SDK and polyline layer
 - **[2026-01-26 16:51:24]** (86) refactor(driver): optimize driver location broadcast stream
+- **[2026-01-27 11:24:51]** (87) fix(fare): handle surge pricing rounding precision
