@@ -101,3 +101,4 @@
 - **[2026-01-30 16:19:16]** (99) feat(maps): initialize Google Maps SDK and polyline layer
 - **[2026-01-30 19:36:39]** (100) refactor(driver): optimize driver location broadcast stream
 - **[2026-01-31 11:52:43]** (101) fix(fare): handle surge pricing rounding precision
+- **[2026-01-31 14:09:06]** (102) ui(booking): redesign pickup address search bottom sheet
